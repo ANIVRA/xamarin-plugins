@@ -1,6 +1,10 @@
-## Geofence Plugin for Xamarin
+## Geofence Plugin for Xamarin (DEPRECATED)
 
 Simple cross platform plugin to handle geofence events such as entering, leaving and staying in a geofence region.
+
+# **IMPORTANTE NOTE**:
+
+**This plugin is deprecated. Please use the newer version instead here: https://github.com/CrossGeeks/GeofencePlugin**
 
 ### Setup
 * Available on NuGet: http://www.nuget.org/packages/Xam.Plugin.Geofence
